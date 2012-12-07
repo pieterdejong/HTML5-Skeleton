@@ -1,4 +1,70 @@
 /* GENERAL */
 body {
-	
+	-webkit-font-smoothing: antialiased;
+}
+
+body, select, input, textarea {
+}
+
+a { 
+}
+
+a:hover {
+}
+
+a:visited {
+}
+
+a img { border: 0; }
+
+.hide { display: none; }
+
+.hide-text {
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+/* Typography */
+h1, .mega {	
+}
+
+h2, .huge {
+}
+
+h3, .big {
+}
+
+h4, .large {
+}
+
+small {
+}
+
+p {
+}
+
+blockquote {
+}
+
+li {
+}
+
+::-moz-selection { background: #ffffbf; color: #222; text-shadow: none; }
+::selection { background: #ffffbf; color: #222; text-shadow: none; }
+a:link { -webkit-tap-highlight-color: #ffffbf; }
+
+mark { background-color: #ffffbf; }
+
+
+/* PRINT STYLES */
+@media print {
+}
+
+
+/* MEDIA QUERIES */
+@media screen and (max-width: 980px) {
+}
+
+@media screen and (max-width: 480px) {
 }
