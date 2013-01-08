@@ -1,6 +1,6 @@
-$(document).ready(function(){	
+$(document).ready(function(){
 
-	// GENERAL	
+	// GENERAL
 	$('html').removeClass('no-js');
 
 });
