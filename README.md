@@ -6,6 +6,10 @@ This HTML5-Skeleton consists of the very bare essentials of most of the projects
 
 ## Third party Libraries
 
+### [Normalize.css](http://necolas.github.com/normalize.css/)
+
+> Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
+
 ### [jQuery](http://jquery.com/)
 
 > jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.
