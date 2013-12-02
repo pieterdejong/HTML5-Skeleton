@@ -1,2 +1,6 @@
-// GENERAL
-$('html').removeClass('no-js');
+$(document).ready(function() {
+
+  // General
+  $('html').removeClass('no-js');
+
+});
